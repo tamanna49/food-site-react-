@@ -1,0 +1,52 @@
+.section__1{
+    background-image: url('../../assets/bg.png');
+    width: 100%;
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.section__5{
+    border:2px solid black;
+    background-color: lightgray;
+    /* box-shadow: 1px 1px 1px gray; */
+    border-radius: 50%;
+    margin:30px;
+}
+.section__5 .food-fact {
+    font-family: var(--font-family3);
+    color: var(--main-text-color);
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+  }
+  
+  .food-fact h2 {
+    font-family: var(--font-family1);
+    font-size: 36px;
+    color: var(--main-heading-color);
+    margin-bottom: 20px;
+  }
+  
+  .food-fact p {
+    font-size: 24px;
+  }
+  
+  /* Button Styles */
+  .food-fact button {
+    background-color: var(--button-background-color);
+    color: var(--main-text-color);
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  /* Button Hover Effect */
+  .food-fact button:hover {
+    background-color: #ffd500;
+  }
+  
+  /* Additional styles can be added as needed to match your specific theme. */
+  

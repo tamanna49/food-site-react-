@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&family=Cedarville+Cursive&family=Open+Sans&family=Roboto+Slab:wght@300;400&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+:root {
+    --font-family1: 'Cabin Sketch', cursive;
+    --font-family2: 'Cedarville Cursive', cursive;
+    --font-family3: 'Open Sans', sans-serif;
+    --font-family4: 'Roboto Slab', serif;
+    --main-heading-color: black;
+    --main-text-color: rgb(33, 33, 33);
+    --button-background-color: #ffe001;
+}

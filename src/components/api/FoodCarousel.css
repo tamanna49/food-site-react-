@@ -1,0 +1,11 @@
+.carousel img{
+    overflow: hidden;
+    height:500px;
+    width:700px;
+}
+.carousel-div{
+    border:2px solid rgb(137, 127, 137);
+    height:500px;
+     overflow: hidden; 
+    
+}

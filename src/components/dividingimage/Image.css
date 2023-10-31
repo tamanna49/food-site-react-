@@ -1,0 +1,26 @@
+.dividing__image{
+    position: absolute;
+    top: 400px;
+}
+
+#dividing-img{
+    width: 13rem;
+    height:13rem;
+}
+
+@media screen and (max-width: 987px) {
+    #dividing-img{
+        width: 10rem;
+        height:10rem;
+    }
+
+    .dividing__image{
+        top: 420px;
+    }
+}
+
+@media screen and (max-width: 780px) {
+    .dividing__image{
+        display: none;
+    }
+}

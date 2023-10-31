@@ -1,0 +1,19 @@
+#deal-section{
+    height:50vh;
+    width:97vw;
+    display:flex;
+    /* border:1px solid black; */
+    justify-content: space-evenly;
+    margin-bottom:60px;
+}
+
+#deal-section div{
+    width:29%;
+    height:90%;
+}
+#deal-section div img{
+    width:100%;
+    height:100%;
+}
+
+
